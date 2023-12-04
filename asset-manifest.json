@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-project/static/css/main.5e2dc1f3.css",
+    "main.js": "/React-project/static/js/main.d6c7ccee.js",
+    "static/js/787.adc1714b.chunk.js": "/React-project/static/js/787.adc1714b.chunk.js",
+    "static/media/salad.jpg": "/React-project/static/media/salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/React-project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/burger.png": "/React-project/static/media/burger.48e07147a96a18395642.png",
+    "static/media/lemon.png": "/React-project/static/media/lemon.3d4abfd0fbae89503b98.png",
+    "static/media/Logo .svg": "/React-project/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/React-project/index.html",
+    "main.5e2dc1f3.css.map": "/React-project/static/css/main.5e2dc1f3.css.map",
+    "main.d6c7ccee.js.map": "/React-project/static/js/main.d6c7ccee.js.map",
+    "787.adc1714b.chunk.js.map": "/React-project/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2dc1f3.css",
+    "static/js/main.d6c7ccee.js"
+  ]
+}
