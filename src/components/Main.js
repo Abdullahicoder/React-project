@@ -51,7 +51,6 @@ const Main = () => {
             <Routes>
                 <Route path="/" element={<Header />} />
                 <Route path="/booking" element={<Booking availableTimes={state.availableTimes} dispatch={dispatch} submitForm={submitForm} />} />
-                <Route path="/" element={<Header />} />
             </Routes>
         </main>
     );

@@ -3,9 +3,10 @@ import Nav from './components/Nav';
 import Main from './components/Main';
 import Menu from './components/Menu';
 import Testomonial from './components/Testomonial';
+import About from './components/About';
 import Footer from './components/Footer';
 import './App.css';
-import About from './components/About';
+
 
 
 function App() {
@@ -18,8 +19,6 @@ function App() {
     <Testomonial />
     <About />
     <Footer />
-   
-
     </>
   );
 }
